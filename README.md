@@ -103,16 +103,17 @@ Bodyweight training: building strength, endurance, and advanced skills.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ASDprogrammer521&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASDprogrammer521&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  <img height="170" src="https://raw.githubusercontent.com/ASDprogrammer521/ASDprogrammer521/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats"/>
+  <img height="170" src="https://raw.githubusercontent.com/ASDprogrammer521/ASDprogrammer521/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://raw.githubusercontent.com/ASDprogrammer521/ASDprogrammer521/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language"/>
+  <img height="170" src="https://raw.githubusercontent.com/ASDprogrammer521/ASDprogrammer521/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ASDprogrammer521&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ASDprogrammer521&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ---
